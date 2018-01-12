@@ -1,0 +1,11 @@
+D:\Projects\DotnetCore\7_JavaScriptClient\src\ResourceOwnerClient\bin\Debug\netcoreapp2.0\ResourceOwnerClient.deps.json
+D:\Projects\DotnetCore\7_JavaScriptClient\src\ResourceOwnerClient\bin\Debug\netcoreapp2.0\ResourceOwnerClient.runtimeconfig.json
+D:\Projects\DotnetCore\7_JavaScriptClient\src\ResourceOwnerClient\bin\Debug\netcoreapp2.0\ResourceOwnerClient.runtimeconfig.dev.json
+D:\Projects\DotnetCore\7_JavaScriptClient\src\ResourceOwnerClient\bin\Debug\netcoreapp2.0\ResourceOwnerClient.dll
+D:\Projects\DotnetCore\7_JavaScriptClient\src\ResourceOwnerClient\bin\Debug\netcoreapp2.0\ResourceOwnerClient.pdb
+D:\Projects\DotnetCore\7_JavaScriptClient\src\ResourceOwnerClient\obj\Debug\netcoreapp2.0\ResourceOwnerClient.csprojResolveAssemblyReference.cache
+D:\Projects\DotnetCore\7_JavaScriptClient\src\ResourceOwnerClient\obj\Debug\netcoreapp2.0\ResourceOwnerClient.csproj.CoreCompileInputs.cache
+D:\Projects\DotnetCore\7_JavaScriptClient\src\ResourceOwnerClient\obj\Debug\netcoreapp2.0\ResourceOwnerClient.AssemblyInfoInputs.cache
+D:\Projects\DotnetCore\7_JavaScriptClient\src\ResourceOwnerClient\obj\Debug\netcoreapp2.0\ResourceOwnerClient.AssemblyInfo.cs
+D:\Projects\DotnetCore\7_JavaScriptClient\src\ResourceOwnerClient\obj\Debug\netcoreapp2.0\ResourceOwnerClient.dll
+D:\Projects\DotnetCore\7_JavaScriptClient\src\ResourceOwnerClient\obj\Debug\netcoreapp2.0\ResourceOwnerClient.pdb

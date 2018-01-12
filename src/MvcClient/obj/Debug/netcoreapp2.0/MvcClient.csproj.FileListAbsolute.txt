@@ -1,0 +1,11 @@
+D:\Projects\DotnetCore\7_JavaScriptClient\src\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.deps.json
+D:\Projects\DotnetCore\7_JavaScriptClient\src\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.runtimeconfig.json
+D:\Projects\DotnetCore\7_JavaScriptClient\src\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.runtimeconfig.dev.json
+D:\Projects\DotnetCore\7_JavaScriptClient\src\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.dll
+D:\Projects\DotnetCore\7_JavaScriptClient\src\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.pdb
+D:\Projects\DotnetCore\7_JavaScriptClient\src\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.csprojResolveAssemblyReference.cache
+D:\Projects\DotnetCore\7_JavaScriptClient\src\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.csproj.CoreCompileInputs.cache
+D:\Projects\DotnetCore\7_JavaScriptClient\src\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.AssemblyInfoInputs.cache
+D:\Projects\DotnetCore\7_JavaScriptClient\src\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.AssemblyInfo.cs
+D:\Projects\DotnetCore\7_JavaScriptClient\src\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.dll
+D:\Projects\DotnetCore\7_JavaScriptClient\src\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.pdb
